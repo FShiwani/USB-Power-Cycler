@@ -10,7 +10,7 @@ The choice of the microcontroller may seem a bit overkill however due to it's po
 ## Schematic View
 ![Schematic](images/USB_POWER_CYCLER_SCHEMATIC.png)
 ## Board View
-
+![Board](images/USB_POWER_CYCLER_BOARD.png)
 
 
 
