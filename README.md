@@ -1,5 +1,5 @@
 # USB Power Cycler
-A design using an ATMega328P-PU microcontroller to delay the voltage rail pass-through.
+A design using an ATMega328P-PU microcontroller to delay the supply of power to an external USB device.
 
 ## Purpose
 The reason behind the design was to delay the start up of a USB car handsfree receiver that would stop functioning due to power being cycling to the device when switching from the ACC to ON ignition states.
