@@ -12,6 +12,9 @@ The choice of the microcontroller may seem a slightly too advanced for this proj
 ## Board View
 ![Board](images/USB_POWER_CYCLER_BOARD.png)
 
+## Final Images
+![Final Board](images/ASSEMBLED_BOARD.jpg)
+![PCBs](images/BOARD_STACK.jpg)
 
 
 
